@@ -1,0 +1,3 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\Directory\Background\shell\nxc_script\command]
+@="C:\\Users\\USER\\Desktop\\nxc_api_like_linux\\nxc_api_like_linux.bat"
